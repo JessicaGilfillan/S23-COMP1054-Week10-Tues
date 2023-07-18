@@ -4,8 +4,37 @@ section {
     margin-bottom: 1.5em;
 }
 
+/*html {
+    font-size: 10px; 
+}*/
+
 /*rem*/
+.rem p {
+    font-size: 2rem; 
+    border: 2px solid red; 
+    padding: 1em; 
+}
 
 /* em */
 
+.em {
+    font-size: 50px; 
+}
+
+.em p {
+    font-size: 2em; 
+}
+
+.em2 {
+    font-size: 25px; 
+}
+
+.em2 p {
+    font-size: 2em; 
+}
+
 /*pixels*/
+
+.pixels p {
+  letter-spacing: 2px; 
+}
